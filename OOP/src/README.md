@@ -1,9 +1,9 @@
 ---------------------------------------
 Name: Aneeq Bokhari
-ID: 18235503
+
 ---------------------------------------
 
-Object Oriented Software Design & Development Assignment 18235503
+Object Oriented Software Design & Development Project
 
 Programming  a world Atlas with a Journey Planner
 
